@@ -50,6 +50,7 @@ pipeline {
 		stage("deploy") {
 			steps {
 				echo 'deploying the applicaiton...'
+				echo 'cron test'
 			}
 		}
 	}
