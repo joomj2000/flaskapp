@@ -53,6 +53,7 @@ pipeline {
 				echo 'cron test'
 				echo 'cron test2'
 				echo 'cron test3'
+				echo 'cron test4'
 			}
 		}
 	}
