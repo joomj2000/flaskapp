@@ -51,6 +51,7 @@ pipeline {
 			steps {
 				echo 'deploying the applicaiton...'
 				echo 'cron test'
+				echo 'cron test2'
 			}
 		}
 	}
