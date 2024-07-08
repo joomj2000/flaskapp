@@ -25,6 +25,7 @@ pipeline {
                               passwordVariable: 'PWD'
                              ]]) {
                sh 'printf ${USER}'
+            }
          }
       }
    }
